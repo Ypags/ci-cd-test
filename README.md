@@ -1,6 +1,6 @@
 # ci-cd-test
 
-This template should help get you started developing with Vue 3 in Vite.
+Ссылка на проект: https://serene-custard-86a269.netlify.app/
 
 ## Recommended IDE Setup
 
